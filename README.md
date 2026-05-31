@@ -9,4 +9,4 @@ https://spotify-frontend-theta-one.vercel.app/
 https://spotify-admin-delta-plum.vercel.app/
 
 ### Backend API
-spotify-backend-lake.vercel.app
+spotify-backend-lake.vercel.app/
